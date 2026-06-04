@@ -12,8 +12,12 @@ collections:
     label: Blog Posts
     folder: src/content/posts
     create: true
+    extension: md
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Published Date, name: published, widget: datetime }
+      - { label: Published Date, name: published, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: Description, name: description, widget: string }
+      - { label: Category, name: category, widget: string }
+      - { label: Tags, name: tags, widget: list }
+      - { label: Draft, name: draft, widget: boolean, default: false }
       - { label: Body, name: body, widget: markdown }
