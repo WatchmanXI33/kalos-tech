@@ -53,22 +53,10 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "/watchmanXI33-placement.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Phil Kalos",
 	bio: "Aspiring Blue Team defender. Learning cybersecurity one layer at a time.",
 	links: [
-		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
-		},
-		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://github.com/WatchmanXI33",
-		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
