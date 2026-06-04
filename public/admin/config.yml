@@ -2,6 +2,7 @@ backend:
   name: github
   repo: WatchmanXI33/kalos-tech
   branch: main
+  auth_type: token
 
 media_folder: src/assets/images
 public_folder: /src/assets/images
