@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: WatchmanXI33/kalos-tech
+  branch: main
+
+media_folder: src/assets/images
+public_folder: /src/assets/images
+
+collections:
+  - name: blog
+    label: Blog Posts
+    folder: src/content/posts
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Published Date, name: published, widget: datetime }
+      - { label: Description, name: description, widget: string }
+      - { label: Body, name: body, widget: markdown }
