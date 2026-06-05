@@ -4,7 +4,7 @@ published: 2026-06-05
 description: An introduction to Kalos Tech and what you can expect from this site.
 category: General
 tags:
-  - kalos-tech, introduction
+  - kalos-tech,  introduction
 draft: false
 ---
 
