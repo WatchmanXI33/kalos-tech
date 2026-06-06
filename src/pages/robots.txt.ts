@@ -1,8 +1,12 @@
 import type { APIRoute } from "astro";
+
 const robotsTxt = `
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://kalostech.net/sitemap-index.xml
 `.trim();
+
 export const GET: APIRoute = () => {
 	return new Response(robotsTxt, {
 		headers: {
