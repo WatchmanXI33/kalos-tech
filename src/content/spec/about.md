@@ -1,15 +1,17 @@
-# About
+## About Me
 
-I'm the person behind Kalos Tech. I got into tech because I've always been curious about how things work — and more importantly, how they break and how to fix them. That curiosity naturally led me into cybersecurity, where I'm focused on learning how to protect systems and stay one step ahead of threats.
+I am the person behind **Kalos Tech**, a technology-focused platform centered on cybersecurity, Linux, and artificial intelligence. My primary focus is developing Blue Team skills through practical learning and certifications such as Security+ and BTL1. I am especially interested in understanding how systems function, how vulnerabilities emerge, and how they can be defended effectively.
 
-Kalos Tech is a reflection of my journey and the standard I try to hold myself to in everything I do — whether it's learning new skills, building projects, or improving day by day.
+## Technology Interests
 
-## What I'm Working On
+In addition to cybersecurity, I am also learning Linux and AI because I believe both are important for understanding modern technology and how it can be used and secured. These interests continue to shape my growth and broaden my perspective as I work toward becoming a well-rounded technology professional.
 
-Right now I'm focused on growing in cybersecurity, especially on the defensive side (Blue Team). I'm working toward certifications like CompTIA Security+ and BTL1 while building real, hands-on experience in areas like system monitoring, threat detection, and incident response. At the same time, I'm expanding my skills in Linux and exploring artificial intelligence to better understand how modern systems operate and how they can be secured.
+## Kalos Tech
 
-## Beyond Tech
+Kalos Tech reflects my commitment to continuous learning, disciplined growth, and professional development. It is a space where I document progress, share insights, and pursue the knowledge needed to grow in cybersecurity and related fields.
 
-Outside of tech, my faith is an important part of who I am. It shapes how I think, how I work, and how I approach growth — not just in my career, but in life overall.
+## Faith and Purpose
+
+I also use the handle **WatchmanXI33**, which is rooted in Ezekiel 33:11. That verse highlights God’s desire for people to turn from destruction and live, and it reflects both my Christian faith and the responsibility I believe comes with helping others stay alert, informed, and protected.
 
 Kalos Tech is where all of that comes together: learning, building, and getting better every day.
